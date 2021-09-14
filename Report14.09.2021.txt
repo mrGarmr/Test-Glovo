@@ -1,0 +1,11 @@
+Average delivered order duration in UA: 33.5 min
+Average delivered order duration in Kyiv: 29.5 min
+Average percentage of cancelled orders (cancelled orders/total orders) for  Kyiv right bank 1.2248123271434215 %
+Average percentage of cancelled orders (cancelled orders/total orders) for  Kyiv left bank 1.9607843137254901 %
+Average percentage of cancelled orders (cancelled orders/total orders) for  Lviv 1.2833168805528135 %
+Average percentage of cancelled orders (cancelled orders/total orders) for  Odesa 1.098901098901099 %
+Average percentage of cancelled orders (cancelled orders/total orders) for  Dnipro 0.9009009009009009 %
+Average percentage of cancelled orders (cancelled orders/total orders) for  Kharkiv 1.4238773274917853 %
+Average percentage of cancelled orders in UA: 1.315432141452585 %
+Average Cost per delivered order in UA 106.96079846079846 UAH
+Average Cost per delivered order in Kyiv 110.71428571428572 UAH
